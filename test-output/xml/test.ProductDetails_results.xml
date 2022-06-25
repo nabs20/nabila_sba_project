@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sbaTestNg"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.292">
+    <properties></properties>
+
+
+
+            <testcase
+                name="addToCartShop"
+                time="0.370"
+                classname="test.ProductDetails">
+            </testcase>
+            <testcase
+                name="searchProduct"
+                time="6.666"
+                classname="test.ProductDetails">
+            </testcase>
+            <testcase
+                name="addSizeColor"
+                time="0.604"
+                classname="test.ProductDetails">
+            </testcase>
+            <testcase
+                name="openBrowser"
+                time="7.276"
+                classname="test.ProductDetails">
+            </testcase>
+            <testcase
+                name="chooseQuantity"
+                time="0.376"
+                classname="test.ProductDetails">
+            </testcase>
+</testsuite>

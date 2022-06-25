@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sbaTestNg"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.514">
+    <properties></properties>
+
+
+
+            <testcase
+                name="searchProduct"
+                time="1.795"
+                classname="test.SearchFeature">
+            </testcase>
+            <testcase
+                name="openBrowser"
+                time="8.719"
+                classname="test.SearchFeature">
+            </testcase>
+</testsuite>
